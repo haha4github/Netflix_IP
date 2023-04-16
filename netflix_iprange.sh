@@ -50,7 +50,7 @@ curl -s https://purge.jsdelivr.net/gh/haha4github/Netflix_IP/NF_only.txt
 curl -s https://purge.jsdelivr.net/gh/haha4github/Netflix_IP/getflix.txt
 curl -s https://purge.jsdelivr.net/gh/haha4github/Netflix_IP@master/getflix.txt
 curl -s https://purge.jsdelivr.net/gh/haha4github/Netflix_IP@master/NF_only.txt
-rm nflix.zip*
-rm getflix.tmp*
-rm netflix_ranges.txt*
-rm ip-ranges.json*
+rm nflix.zip
+rm getflix.tmp
+#rm netflix_ranges.txt
+rm ip-ranges.json
