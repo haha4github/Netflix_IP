@@ -2,7 +2,7 @@ name: Generate-Netflix-CI
 
 on:
   schedule:
-    - cron: 25 16 * * *
+    - cron: 45 16 * * *
   watch:
     types: [started]
   #push:
